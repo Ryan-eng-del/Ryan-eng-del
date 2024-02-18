@@ -5,3 +5,8 @@
 
   
 ###                  I'm with you. 💕
+
+
+[![Cyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ryan-eng-del&include_all_commits=true)](https://github.com/Ryan-eng-del/github-readme-stats?include_all_commits=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryan-eng-del&hide=javascript,html)](https://github.com/Ryan-eng-del/github-readme-stats&hide=javascript,html)
