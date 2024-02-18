@@ -2,6 +2,7 @@
 
 - 🎈 I'm a software engineer running on all cylinders.
 - 📧 Please contact me: cyan0908@163.com
+- 💬 Wechat: echo Q3lhbkJlbmphbWlu== | base64 -d
 
   
 ###  🎈 🏃
