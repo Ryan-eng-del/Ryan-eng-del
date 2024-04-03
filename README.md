@@ -3,7 +3,7 @@
 - ✈️ I'm a software engineer running on all cylinders.
 - 💼 Develop using Golang and Python at work.
 - 📧 Please contact me: cyan0908@163.com
-- 💬 Wechat: echo Q3lhbkJlbmphbWlu== | base64 -d
+- 💬 Wechat: `echo Q3lhbkJlbmphbWlu== | base64 -d`
 
   
 ###  🎈 🏃
