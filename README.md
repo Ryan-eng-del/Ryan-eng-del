@@ -2,7 +2,7 @@
 
 - ✈️ I'm a software engineer running on all cylinders.
 - 💼 Develop using `Golang` and `Python` at work.
-- 📧 Email: echo Y3lhbjA5MDhAMTYzLmNvbQ== | base64 -d
+- 📧 Email: `echo Y3lhbjA5MDhAMTYzLmNvbQ== | base64 -d`
 - 💬 Wechat: `echo Q3lhbkJlbmphbWlu== | base64 -d`
 
   
